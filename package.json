@@ -1,0 +1,31 @@
+{
+  "name": "bct22-5a",
+  "version": "0.1.0",
+  "description": "",
+  "author": "Hans Michel Meissner",
+  "dependencies": {
+    "bootstrap": "5.1.3",
+    "crypto-js": "4.1.1",
+    "eccrypto": "^1.1.6",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-scripts": "4.0.3",
+    "truffle": "5.5.20",
+    "web3": "1.7.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
